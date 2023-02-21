@@ -1,0 +1,3 @@
+User,Passw,locator
+username,password,//option[@value='twitterfav']
+user,pass,//option[@value='facebooksha']

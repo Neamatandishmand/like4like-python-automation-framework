@@ -1,0 +1,12 @@
+{
+  "test1": {
+    "User": "username",
+    "Passw": "password",
+    "locator": "//option[@value='twitterfav']"
+  },
+  "test2": {
+    "User": "username",
+    "Passw": "password",
+    "locator": "//option[@value='facebooksha']"
+  }
+}
